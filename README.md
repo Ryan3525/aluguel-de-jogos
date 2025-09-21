@@ -17,10 +17,8 @@ Projeto criado para praticar lógica de programação com **JavaScript**, integr
 
 ##  Estrutura do projeto
 
-aluguel-games
-┣ 📂 assets/ # imagens dos jogos e ícones
-┣ 📜 index.html
-┣ 📜 style.css
-┣ 📜 app.js
-┗ 📜 README.md
-
+┣ 📂 assets
+┣ 📄 index.html
+┣ 📄 style.css
+┣ 📄 app.js
+┗ 📄 README.md
